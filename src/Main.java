@@ -10,7 +10,6 @@ public class Main {
             }
         }
         printGame(symbols);
-        //sosi
         boolean HasX = false;
         boolean HasO = false;
         int counter = 9;
