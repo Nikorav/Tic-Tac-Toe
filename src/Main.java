@@ -9,6 +9,7 @@ public class Main {
                 symbols[i][j] = ' ';
             }
         }
+        //ветка 2
         printGame(symbols);
         boolean HasX = false;
         boolean HasO = false;
