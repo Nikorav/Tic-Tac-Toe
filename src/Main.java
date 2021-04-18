@@ -10,6 +10,7 @@ public class Main {
             }
         }
         //ветка 2
+        // test
         printGame(symbols);
         boolean HasX = false;
         boolean HasO = false;
